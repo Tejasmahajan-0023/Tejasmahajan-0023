@@ -1,3 +1,4 @@
+![logo](https://github.com/Tejasmahajan-0023/Tejasmahajan-0023/blob/main/Tejas%20Mahajan.png)
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/facdb644-af78-4776-88dd-98596cf3b824" />
