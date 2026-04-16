@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tejasmahajan-0023/Tejasmahajan-0023/blob/main/Tejas%20Mahajan.png)
 <h1 align="center">Hi 👋, I'm Tejas Mahajan</h1>
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/facdb644-af78-4776-88dd-98596cf3b824" />
+<img width="500" height="300" alt="image" img align="right" src="https://github.com/user-attachments/assets/facdb644-af78-4776-88dd-98596cf3b824" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmahajan-0023&label=Profile%20views&color=0e75b6&style=flat" alt="tejasmahajan-0023" /> </p>
