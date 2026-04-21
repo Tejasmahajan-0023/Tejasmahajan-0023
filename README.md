@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">![logo](https://github.com/Tejasmahajan-0023/Tejasmahajan-0023/blob/main/Tejas%20Mahajan.png)
 
-<h1 align="center"> Hi There, I Am Tejas Mahajan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <img width="350" height="300" alt="image" img align="right" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" />
